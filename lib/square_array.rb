@@ -10,3 +10,4 @@ counter = 0
   new_array
 end
 
+numbers = [1,2,3]
