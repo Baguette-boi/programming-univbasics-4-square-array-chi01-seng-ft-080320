@@ -3,7 +3,7 @@ numbers = [1,2,3]
  new_array = []
 
 
-  numbers.length do |i|
+  numbers.length.times do |i|
   new_array << i ** 2
  end
  return new_array
