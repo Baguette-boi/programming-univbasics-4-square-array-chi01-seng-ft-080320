@@ -9,5 +9,3 @@ counter = 0
   new_array
 end
 
-square_array(1)
-
