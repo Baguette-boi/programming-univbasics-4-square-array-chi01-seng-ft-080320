@@ -1,9 +1,9 @@
 numbers = [1,2,3]
  def square_array(numbers)
  new_array = []
-counter = -1
+counter = 
  while numbers[counter]  do 
-  new_array << (counter ** 2)
+  new_array << (counter * counter)
   counter += 1
  end
   new_array
