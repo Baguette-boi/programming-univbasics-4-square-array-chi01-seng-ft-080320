@@ -6,5 +6,5 @@ i= 1
   numbers.length.times do |i|
   new_array << i ** 2
  end
- return new_array
+  new_array
 end
